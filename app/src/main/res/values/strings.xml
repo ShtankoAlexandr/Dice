@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="btn_roll_dice">Бросить кость</string>
+</resources>
